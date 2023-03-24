@@ -1,0 +1,4 @@
+2) f. 
+	- Estando en la rama main, no se puede observar el archivo tp2_1_2.c desde el explorador de arcivos. Esto ocurre ya que ese archivo no se encuentra sobre la rama que estamos trabajando.
+	- La diferencia que se nota al ejecutar las distintas veces el comando "gitk --all" es que en primera instancia las ramas aparecian alineadas, y luego la rama Opcion_2 aparece desplazada respecto de la rama main.  
+	  
